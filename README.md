@@ -30,10 +30,12 @@ This project consists of the following phases:
     -update web server to include a web page for REST API interaction
     -add a .gitignore file for Github
 **p4**
-creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb. 
+This project consists of:
+    -creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb. 
 
 **p5**
-creating some type of a game using a JavaScript class, a web server, a client program, and separate code modules. What game you choose to create is entirely up to you, so long as your final product meets the project requirements. You can use AI to assist with this project, and how much is up to you. 
+This project consists of:
+    -creating some type of a game using a JavaScript class, a web server, a client program, and separate code modules. What game you choose to create is entirely up to you, so long as your final product meets the project requirements. You can use AI to assist with this project, and how much is up to you. 
 
 The point of my video game is to be able to battle a monster that gets randomly generated with each monster having different levels of health and having the player be able to choose between different weapons that do different ranges of damage. The player has to be careful because the monster that gets randomly generated can attack them too, so depending on what monster they get, and what weapon they choose will determine if they will lose or win the game.
 
