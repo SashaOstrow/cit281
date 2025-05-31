@@ -1,4 +1,7 @@
-# cit281-lab7
+
+# cit281
+
+![Screenshot 2025-05-30 214739](https://github.com/user-attachments/assets/20381fad-9e91-469f-a7bf-52e193208ce6)
 
 **p1**
 Project elements:
