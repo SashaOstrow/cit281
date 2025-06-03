@@ -1,5 +1,5 @@
 
-# cit281
+# Computer Infomation Tech (CIT) 281
 
 ![Screenshot 2025-05-30 214739](https://github.com/user-attachments/assets/20381fad-9e91-469f-a7bf-52e193208ce6)
 
