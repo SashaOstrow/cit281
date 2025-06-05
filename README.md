@@ -105,6 +105,8 @@ Lab goals and outcomes:
     Part 6: Add POST handling to server application and respond with JSON
     Part 7: Use Postman and POST request
 
+    [https://github.com/SashaOstrow/CIT281-lab5](url)
+
 **lab6**
 Lab goals and outcomes:
 
